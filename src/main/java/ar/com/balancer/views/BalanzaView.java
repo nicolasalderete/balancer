@@ -25,6 +25,6 @@ public class BalanzaView extends VerticalLayout implements View {
 
     @Override
     public void enter(ViewChangeEvent event) {
-        // This view is constructed in the init() method()
+        
     }
 }

@@ -24,7 +24,6 @@ public class MyVaadinUI extends UI implements ViewDisplay {
 	private static final long serialVersionUID = 1L;
 	
 	private Panel springViewDisplay;
-	//private SideMenu sideMenu = new SideMenu();
 
     @Override
     protected void init(VaadinRequest request) {
