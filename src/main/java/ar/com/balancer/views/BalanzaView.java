@@ -19,8 +19,8 @@ public class BalanzaView extends VerticalLayout implements View {
     @PostConstruct
     void init() {
     	Label title = new Label("Balanza");
-    	title.addStyleName(ValoTheme.LABEL_H2);
-        addComponent(title);
+		title.addStyleName(ValoTheme.LABEL_H3);
+		addComponent(title);
     }
 
     @Override
